@@ -16,14 +16,14 @@ We welcome many different types of contributions including:
 
 Best Practices:
 - General improvements to our documentation
-- [Use cases](doc/use-case/) and user stories (these are used to provide context for and select best practices)
-  - [See the template for more details](doc/use-case/NNNN-UC-template.md)
+- [Use cases](https://github.com/lfn-cnti/bestpractices/blob/main/doc/use-case/) and user stories (these are used to provide context for and select best practices)
+  - [See the template for more details](https://github.com/lfn-cnti/bestpractices/blob/main/doc/use-case/NNNN-UC-template.md)
 - Definitions
   - [Actors and Roles](https://github.com/lfn-cnti/bestpractices/discussions/30)
-  - [Glossary](doc/glossary.md)
-- [CNTi Best Practices](doc/best_cnf_dev.md)
-  - [Process to publish a CNTi Best Practice](doc/cbpps/cnti_best_practice_process.md)
-  - [See the template for more details](doc/cbpps/NNNN-cbpp-template.md)
+  - [Glossary](https://github.com/lfn-cnti/bestpractices/blob/main/doc/glossary.md)
+- [CNTi Best Practices](https://github.com/lfn-cnti/bestpractices/blob/main/doc/best_cnf_dev.md)
+  - [Process to publish a CNTi Best Practice](https://github.com/lfn-cnti/bestpractices/blob/main/doc/cbpps/cnti_best_practice_process.md)
+  - [See the template for more details](https://github.com/lfn-cnti/bestpractices/blob/main/doc/cbpps/NNNN-cbpp-template.md)
 - Gap Analysis
 
 Test Catalog:
