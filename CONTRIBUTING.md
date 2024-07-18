@@ -1,13 +1,11 @@
-# Contributing to the CNTI
+# Contributing to the CNTi
 
 Welcome to the Cloud Native Telecom Initiative (CNTi). This is an open, public project welcoming anyone who would like to help in one or more of our focus areas.  Our goal is to advance cloud native networking including developing best practices, maintaining a testing catalog, and providing vendor neutral certification.  We're glad you're here!
 
 To learn more about our focus areas and our different collaboration tools, please visit our focus area wiki pages:
 
 - [Best Practices](https://wiki.lfnetworking.org/x/HAAxBw)
-
 - [Test Catalog](https://wiki.lfnetworking.org/x/HgAxBw)
-
 - [Certification](https://wiki.lfnetworking.org/x/IAAxBw)
 
 ## What to Contribute?
@@ -16,30 +14,27 @@ We welcome many different types of contributions including:
 
 Best Practices:
 - General improvements to our documentation
-- [Use cases](doc/use-case/) and user stories (these are used to provide context for and select best practices)
-  - [See the template for more details](doc/use-case/NNNN-UC-template.md)
+- [Use cases](https://github.com/lfn-cnti/bestpractices/blob/main/doc/use-case/) and user stories (these are used to provide context for and select best practices)
+  - [See the template for more details](https://github.com/lfn-cnti/bestpractices/blob/main/doc/use-case/NNNN-UC-template.md)
 - Definitions
   - [Actors and Roles](https://github.com/lfn-cnti/bestpractices/discussions/30)
-  - [Glossary](doc/glossary.md)
-- [CNTi Best Practices](doc/best_cnf_dev.md)
-  - [Process to publish a CNTi Best Practice](doc/cbpps/cnti_best_practice_process.md)
-  - [See the template for more details](doc/cbpps/NNNN-cbpp-template.md)
+  - [Glossary](https://github.com/lfn-cnti/bestpractices/blob/main/doc/glossary.md)
+- [CNTi Best Practices](https://github.com/lfn-cnti/bestpractices/blob/main/doc/best_cnf_dev.md)
+  - [Process to publish a CNTi Best Practice](https://github.com/lfn-cnti/bestpractices/blob/main/doc/cbpps/cnti_best_practice_process.md)
+  - [See the template for more details](https://github.com/lfn-cnti/bestpractices/blob/main/doc/cbpps/NNNN-cbpp-template.md)
 - Gap Analysis
 
 Test Catalog:
 - General improvements to our [documentation](https://github.com/cnti-testcatalog/testsuite/blob/main/docs/TEST_DOCUMENTATION.md)
-- [Code new tests, test enhancements, and bug fixes](https://github.com/cnti-testcatalog/testsuite/blob/main/docs/TEST_DOCUMENTATION.md)
+- Code new tests, test enhancements, and bug fixes
 - Example CNFs
 - Bug reports
 
-
 Certification:
-
 - General improvements to our [documentation](https://github.com/lfn-cnti/certification)
-- Become a [reviewer](https://github.com/lfn-cnti/certification) and help with certification of vendors who successfully demonstrate adherence to cloud native best practices
+- Become a reviewer and help with certification of vendors who successfully demonstrate adherence to cloud native best practices
 
 Not sure if you can contribute with anything above?  Feel free to join our meetings and discussions anyway.  There are always new ways to contribute to our growing community.  
-
 
 ## How to Contribute
 
@@ -59,12 +54,10 @@ Best Practices:
 - [Best Practices Discussion board](https://github.com/lfn-cnti/bestpractices/discussions)
 
 Test Catalog:
-
 - [Test Catalog Discussion board](https://github.com/cnti-testcatalog/testsuite/discussions)
 
 Certification:
-
-- [Certification Discussion board](https://github.com/lfn-cnti/certification/discussions/landing)
+- [Certification Discussion board](https://github.com/lfn-cnti/certification/discussions)
 
 ### Find an Issue
 
@@ -95,9 +88,9 @@ Where a comment is better expressed as a proposed change, the change can be made
 #### Steps for Creating a New PR
 
 - Once you have made your change or added new content
-- Ensure you are up to date with the `main` branch of the cnf-wg repository
+- Ensure you are up to date with the `main` branch of the repository
 - Open a new Pull Request in the repository of the correct Focus Area: i.e. [Best Practices](https://github.com/lfn-cnti/bestpractices/pulls), [Test Catalog](https://github.com/cnti-testcatalog/testsuite/pulls), or [Certification](https://github.com/lfn-cnti/certification/pulls)
-- Choose at least 3 reviewers OR choose a [TSC member](https://wiki.lfnetworking.org/display/LN/CNTi+Governance) who will help to find reviewers for you
+- Choose at least 3 reviewers OR choose a [TSC member](https://wiki.lfnetworking.org/x/pwAxBw) who will help to find reviewers for you
 
 #### Steps to Accept a PR
 
