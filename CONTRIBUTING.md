@@ -1,4 +1,4 @@
-# Contributing to the CNTI
+# Contributing to the CNTi
 
 Welcome to the Cloud Native Telecom Initiative (CNTi). This is an open, public project welcoming anyone who would like to help in one or more of our focus areas.  Our goal is to advance cloud native networking including developing best practices, maintaining a testing catalog, and providing vendor neutral certification.  We're glad you're here!
 
