@@ -28,7 +28,7 @@ Best Practices:
 
 Test Catalog:
 - General improvements to our [documentation](https://github.com/cnti-testcatalog/testsuite/blob/main/docs/TEST_DOCUMENTATION.md)
-- [Code new tests, test enhancements, and bug fixes](https://github.com/cnti-testcatalog/testsuite/blob/main/docs/TEST_DOCUMENTATION.md)
+- Code new tests, test enhancements, and bug fixes
 - Example CNFs
 - Bug reports
 
@@ -36,7 +36,7 @@ Test Catalog:
 Certification:
 
 - General improvements to our [documentation](https://github.com/lfn-cnti/certification)
-- Become a [reviewer](https://github.com/lfn-cnti/certification) and help with certification of vendors who successfully demonstrate adherence to cloud native best practices
+- Become a reviewer and help with certification of vendors who successfully demonstrate adherence to cloud native best practices
 
 Not sure if you can contribute with anything above?  Feel free to join our meetings and discussions anyway.  There are always new ways to contribute to our growing community.  
 
