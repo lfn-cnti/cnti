@@ -5,9 +5,7 @@ Welcome to the Cloud Native Telecom Initiative (CNTi). This is an open, public p
 To learn more about our focus areas and our different collaboration tools, please visit our focus area wiki pages:
 
 - [Best Practices](https://wiki.lfnetworking.org/x/HAAxBw)
-
 - [Test Catalog](https://wiki.lfnetworking.org/x/HgAxBw)
-
 - [Certification](https://wiki.lfnetworking.org/x/IAAxBw)
 
 ## What to Contribute?
@@ -32,14 +30,11 @@ Test Catalog:
 - Example CNFs
 - Bug reports
 
-
 Certification:
-
 - General improvements to our [documentation](https://github.com/lfn-cnti/certification)
 - Become a reviewer and help with certification of vendors who successfully demonstrate adherence to cloud native best practices
 
 Not sure if you can contribute with anything above?  Feel free to join our meetings and discussions anyway.  There are always new ways to contribute to our growing community.  
-
 
 ## How to Contribute
 
@@ -59,12 +54,10 @@ Best Practices:
 - [Best Practices Discussion board](https://github.com/lfn-cnti/bestpractices/discussions)
 
 Test Catalog:
-
 - [Test Catalog Discussion board](https://github.com/cnti-testcatalog/testsuite/discussions)
 
 Certification:
-
-- [Certification Discussion board](https://github.com/lfn-cnti/certification/discussions/landing)
+- [Certification Discussion board](https://github.com/lfn-cnti/certification/discussions)
 
 ### Find an Issue
 
