@@ -95,7 +95,7 @@ Where a comment is better expressed as a proposed change, the change can be made
 #### Steps for Creating a New PR
 
 - Once you have made your change or added new content
-- Ensure you are up to date with the `main` branch of the cnf-wg repository
+- Ensure you are up to date with the `main` branch of the repository
 - Open a new Pull Request in the repository of the correct Focus Area: i.e. [Best Practices](https://github.com/lfn-cnti/bestpractices/pulls), [Test Catalog](https://github.com/cnti-testcatalog/testsuite/pulls), or [Certification](https://github.com/lfn-cnti/certification/pulls)
 - Choose at least 3 reviewers OR choose a [TSC member](https://wiki.lfnetworking.org/display/LN/CNTi+Governance) who will help to find reviewers for you
 
