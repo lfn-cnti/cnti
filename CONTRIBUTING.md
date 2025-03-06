@@ -25,7 +25,7 @@ Best Practices:
 - Gap Analysis
 
 Test Catalog:
-- General improvements to our [documentation](https://github.com/cnti-testcatalog/testsuite/blob/main/docs/TEST_DOCUMENTATION.md)
+- General improvements to our [documentation](https://github.com/lfn-cnti/testsuite/blob/main/docs/TEST_DOCUMENTATION.md)
 - Code new tests, test enhancements, and bug fixes
 - Example CNFs
 - Bug reports
@@ -54,14 +54,14 @@ Best Practices:
 - [Best Practices Discussion board](https://github.com/lfn-cnti/bestpractices/discussions)
 
 Test Catalog:
-- [Test Catalog Discussion board](https://github.com/cnti-testcatalog/testsuite/discussions)
+- [Test Catalog Discussion board](https://github.com/lfn-cnti/testsuite/discussions)
 
 Certification:
 - [Certification Discussion board](https://github.com/lfn-cnti/certification/discussions)
 
 ### Find an Issue
 
-Review, contribute to, and create new issues for [Best practices](https://github.com/lfn-cnti/bestpractices/issues), [Test catalog](https://github.com/cnti-testcatalog/testsuite/issues), or [Certification](https://github.com/lfn-cnti/certification/issues)
+Review, contribute to, and create new issues for [Best practices](https://github.com/lfn-cnti/bestpractices/issues), [Test catalog](https://github.com/lfn-cnti/testsuite/issues), or [Certification](https://github.com/lfn-cnti/certification/issues)
 
 We have tagged "good first issues" for new contributors and "help wanted" issues suitable for any contributor. "Good first issues" have extra information to help you make your first contribution. "Help wanted" issues are suitable for anyone who isn't a core maintainer and is good to move onto after your first pull request.
 
@@ -89,7 +89,7 @@ Where a comment is better expressed as a proposed change, the change can be made
 
 - Once you have made your change or added new content
 - Ensure you are up to date with the `main` branch of the repository
-- Open a new Pull Request in the repository of the correct Focus Area: i.e. [Best Practices](https://github.com/lfn-cnti/bestpractices/pulls), [Test Catalog](https://github.com/cnti-testcatalog/testsuite/pulls), or [Certification](https://github.com/lfn-cnti/certification/pulls)
+- Open a new Pull Request in the repository of the correct Focus Area: i.e. [Best Practices](https://github.com/lfn-cnti/bestpractices/pulls), [Test Catalog](https://github.com/lfn-cnti/testsuite/pulls), or [Certification](https://github.com/lfn-cnti/certification/pulls)
 - Choose at least 3 reviewers OR choose a [TSC member](https://wiki.lfnetworking.org/x/pwAxBw) who will help to find reviewers for you
 
 #### Steps to Accept a PR
